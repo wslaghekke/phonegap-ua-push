@@ -8,7 +8,7 @@
     <description>Urban Airship Cordova plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,urbanairship</keywords>
-    <repo>https://github.com/urbanairship/phonegap-ua-push.git</repo>
+    <repo>https://github.com/wslaghekke/phonegap-ua-push.git</repo>
 
     <engines>
         <engine name="cordova-android" version=">=4.1.0"/>
