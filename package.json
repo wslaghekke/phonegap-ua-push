@@ -36,7 +36,7 @@
   ],
   "author": "Urban Airship",
   "license": "Apache 2.0",
-  "homepage": "https://github.com/urbanairship/phonegap-ua-push#readme",
+  "homepage": "https://github.com/wslaghekke/phonegap-ua-push#readme",
   "devDependencies": {
     "jsdoc": "3.5.5",
     "minami": "1.2.3"
